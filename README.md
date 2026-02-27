@@ -2,7 +2,8 @@
 
 A modern, responsive event booking website prototype for discovering and reserving tickets to concerts, movies, and conferences. Built with **HTML, CSS, and JavaScript**, this project showcases a clean user interface with interactive components like seat selection, ticket counters, and dynamic filtering.
 
-
+![Bookify Preview](home.png)  
+*Bookify – Event Booking System UI*
 
 ---
 
@@ -104,11 +105,11 @@ cd Bookify
 
 | Home Page | Movie Booking |
 |-----------|---------------|
-| ![Home Page](assets/home.png) | ![Movie Seat Selection](assets/movie.png) |
+| ![Home Page](home.png) | ![Movie Seat Selection](movie.png) |
 
 | Concert Booking | About Page |
 |-----------------|------------|
-| ![Concert Tickets](assets/concert.png) | ![About Slider](assets/about.png) |
+| ![Concert Tickets](concert.png) | ![About Slider](about.png) |
 
 ---
 
