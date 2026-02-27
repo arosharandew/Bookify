@@ -82,8 +82,8 @@ bookify-event-platform/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/bookify-event-platform.git
-cd bookify-event-platform
+git clone https://github.com/arosharandew/Bookify.git
+cd Bookify
 ```
 
 2. Open any HTML file:
@@ -104,34 +104,14 @@ cd bookify-event-platform
 
 | Home Page | Movie Booking |
 |-----------|---------------|
-| ![Home Page](https://via.placeholder.com/300x200?text=Home+Page) | ![Movie Seat Selection](https://via.placeholder.com/300x200?text=Movie+Seat+Selection) |
+| ![Home Page](assets/home.png) | ![Movie Seat Selection](assets/movie.png) |
 
 | Concert Booking | About Page |
 |-----------------|------------|
-| ![Concert Tickets](https://via.placeholder.com/300x200?text=Concert+Tickets) | ![About Slider](https://via.placeholder.com/300x200?text=About+Slider) |
+| ![Concert Tickets](assets/concert.png) | ![About Slider](assets/about.png) |
 
 ---
 
-## 🤝 Contributing
-
-Contributions are welcome!  
-
-1. Fork the project  
-2. Create your feature branch:
-```bash
-git checkout -b feature/AmazingFeature
-```
-3. Commit your changes:
-```bash
-git commit -m "Add some AmazingFeature"
-```
-4. Push to the branch:
-```bash
-git push origin feature/AmazingFeature
-```
-5. Open a pull request  
-
----
 
 ## 📄 License
 
