@@ -9,7 +9,7 @@ A modern, responsive event booking website prototype for discovering and reservi
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://arosharandew.github.io/Bookify/) 
+[View Live Demo]([https://arosharandew.github.io/Bookify/](https://github.com/arosharandew/Bookify-Event-Booking-System-UI)) 
 
 ---
 
