@@ -2,14 +2,13 @@
 
 A modern, responsive event booking website prototype for discovering and reserving tickets to concerts, movies, and conferences. Built with **HTML, CSS, and JavaScript**, this project showcases a clean user interface with interactive components like seat selection, ticket counters, and dynamic filtering.
 
-![Bookify Preview](https://via.placeholder.com/800x400?text=Bookify+Preview)  
-*Replace with actual screenshot*
+
 
 ---
 
 ## 🚀 Live Demo
 
-[View Live Demo](#) – Add your GitHub Pages or hosting link here
+[View Live Demo](https://arosharandew.github.io/Bookify/) 
 
 ---
 
